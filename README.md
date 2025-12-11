@@ -1,5 +1,6 @@
 # End-to-End-Deep-Learning-Project-Chicken-Disease
 
+<img width="1911" height="916" alt="image" src="https://github.com/user-attachments/assets/5f762b63-7f2a-4c1f-ad36-bb849a395be3" />
 
 #### Data Link: [Donwload Link](https://drive.google.com/file/d/1pV0DAdyjzsjk0HL7f8_5qiS_mVyjYk25/view?usp=sharing)
 
