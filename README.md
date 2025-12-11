@@ -28,7 +28,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Deep-Learning-Project-Chicken-Disease
+https://github.com/suvankar-paul/End-to-End-Deep-learning-chicken-disease-classsification.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
